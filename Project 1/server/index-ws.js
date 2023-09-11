@@ -5,7 +5,7 @@ server.on('connection', (socket) => {
   console.log('a user connected');
 
   socket.on('message', (message) => {
-    console.log(message);
+    console.log(message); // Buffer
     socket.send(`Roger that! ${message}`);
   });
 });

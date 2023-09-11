@@ -3,9 +3,10 @@ const socket = new WebSocket('ws://localhost:3000');
 // Listen for messages
 socket.onmessage = ({ data }) => {
   console.log('Message from server ', data);
+  console.log(typeof data); // string
 
   const el = document.createElement('li');
-  el.innerHTML = data;
+  el.innerHTML = typeof data;
   document.querySelector('ul').appendChild(el);
 };
 
