@@ -1,4 +1,4 @@
-## Real-time simple chat app with Socket.io (JS)
+## Realtime simple chat app with Socket.io (JS)
 
 ```bash
 npm start

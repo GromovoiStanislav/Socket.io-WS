@@ -1,4 +1,4 @@
-## Real-time Chat Rooms with Socket.io (JS)
+## Realtime Chat Rooms with Socket.io (JS)
 
 ```bash
 npm start
