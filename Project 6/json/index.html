@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>WebSockets</title>
+</head>
+
+<body>
+	<h1>Sending JSON over WebSockets</h1>
+	<script>
+
+		const ws = new WebSocket('ws://localhost:3000');
+
+		ws.addEventListener("open", (e) => {
+			ws.send(JSON.stringify({
+				x: 254,
+				y: 100
+			})
+			)
+
+		})
+
+
+
+
+
+	</script>
+</body>
+
+</html>
