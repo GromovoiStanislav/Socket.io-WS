@@ -1,4 +1,4 @@
-## Basic WS communication (JS)
+## Basic Socket.io communication (JS)
 
 ```bash
 npm run start:server

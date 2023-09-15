@@ -7,4 +7,5 @@
 - 5 - simple Realtime Chat app with WS (JS)
 - 6 - simple Realtime Chat app with WS examples (JS)
 - 7 - Realtime Chat with Socket.io witn Rooms, Namespaces, Middleware and Offline Mode (JS)
-- 8 - Basic WS microservices (JS)
+- 8 - Basic WS communication (JS)
+- 9 - Basic Socket.io communication (JS)
