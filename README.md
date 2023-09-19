@@ -9,3 +9,4 @@
 - 7 - Realtime Chat with Socket.io witn Rooms, Namespaces, Middleware and Offline Mode (JS)
 - 8 - Basic WS communication (JS)
 - 9 - Basic Socket.io communication (JS)
+- 10 - Realtime Chat Application with Socket.io & Fastify (TS/JS)
