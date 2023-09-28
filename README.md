@@ -1,5 +1,6 @@
 ## Socket.io and WS examples
 
+- 0 - Chat-example with Socket.io (JS)
 - 1 - Basic Socket.io and WS demo (JS)
 - 2 - Realtime simple chat app with Socket.io (JS)
 - 3 - Realtime chat rooms with Socket.io (JS)
