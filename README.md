@@ -11,4 +11,5 @@
 - 8 - Basic WS communication (JS)
 - 9 - Basic Socket.io communication (JS)
 - 10 - Realtime Chat Application with Socket.io & Fastify (TS/JS)
-- 11 - Websocket example (JS)
+- 11 - WS example (JS)
+- 12 - Example WS with JWT (JS)
