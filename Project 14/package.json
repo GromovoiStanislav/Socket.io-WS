@@ -1,0 +1,19 @@
+{
+  "name": "socket-example",
+  "version": "1.0.0",
+  "description": "socket-example",
+  "repository": "none",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  },
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js",
+    "bot": "node bot.js"
+  }
+}
