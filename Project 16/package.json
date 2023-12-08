@@ -6,13 +6,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
-    "node-telegram-bot-api": "^0.64.0",
     "socket.io": "^4.7.2",
     "socket.io-client": "^4.7.2"
   },
   "scripts": {
     "server": "node server.js",
-    "client": "node client.js"
+    "subscriber": "node subscriber.js",
+    "publisher": "node publisher.js"
   }
 }

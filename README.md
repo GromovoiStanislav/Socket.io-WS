@@ -16,3 +16,4 @@
 - 13 - Real-Time Applications with Socket.io, Express (JS)
 - 14 - Real-Time Applications with Socket.io, Authentication and TelegramBot (JS)
 - 15 - Real-Time Applications with Socket.io, Authentication and TelegramBot (JS)
+- 16 - Real-Time Applications with Socket.io, Authentication (JS)
